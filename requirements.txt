@@ -6,4 +6,4 @@ seaborn
 jupyter
 scipy
 torch
-
+tqdm
