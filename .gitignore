@@ -1,2 +1,5 @@
 /clase_3/jupyter_notebooks/neural_networks/.ipynb_checkpoints/
 .venv*
+t10k*
+*.gz
+*ubyte
