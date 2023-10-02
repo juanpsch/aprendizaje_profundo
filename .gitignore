@@ -1,4 +1,10 @@
 /clase_3/jupyter_notebooks/neural_networks/.ipynb_checkpoints/
 .venv*
+<<<<<<< HEAD
+t10k*
+*.gz
+*ubyte
+=======
 clase_5/teoria/~$CNN.pptx
 data*
+>>>>>>> 2a59b253ac7b77c9b40849883cb1438a1a3e4a73
